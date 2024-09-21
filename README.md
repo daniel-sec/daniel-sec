@@ -8,7 +8,7 @@
 <h2> 📈 Cybersecurity Learning Journey: </h2>
 
 - [HackTheBox Transcript]()
-- [TryHackMe Profil](https://tryhackme.com/p/k00p4)
+- [TryHackMe Profile](https://tryhackme.com/p/k00p4)
 <img src="https://tryhackme-badges.s3.amazonaws.com/k00p4.png" alt="TryHackMe">
 
 <h2> 🤳 Connect with me:</h2>
