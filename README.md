@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Siem Home Lab](https://github.com/daniel-sec/SiemHomeLab)
+- [Honeypot]()
 - [Simulation and Analysis of a Bad USB Attack]()
 
 <h2> 📈 Cybersecurity Learning Journey: </h2>
