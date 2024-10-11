@@ -5,6 +5,7 @@
 - [Siem Home Lab](https://github.com/daniel-sec/SiemHomeLab)
 - [Honeypot]()
 - [Simulation and Analysis of a Bad USB Attack]()
+- [Phishing Attack Simualation]()
 
 <h2> 📈 Cybersecurity Learning Journey: </h2>
 
