@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- [Wazuh SIEM](https://github.com/daniel-sec/WazuhSiem)
 - [SIEM Home Lab](https://github.com/daniel-sec/SiemHomeLab)
-- [Wazuh SIEM]()
-- [Honeypot]()
+- [Honeypot --- updated soon]()
 - [Simulation and Analysis of a Bad USB Attack --- updated soon]()
 - [Phishing Attack Simulation](https://github.com/daniel-sec/PhishingAttackSimulation)
 
