@@ -4,7 +4,7 @@
 
 - [Wazuh SIEM](https://github.com/daniel-sec/WazuhSiem)
 - [SIEM Home Lab](https://github.com/daniel-sec/SiemHomeLab)
-- [Simulation of a Bad USB Attack --- updated soon]()
+- [Simulation of a Bad USB Attack](https://github.com/daniel-sec/badusb-reverse-shell)
 - [Autopsy Plugin: Forensic Artifact Detection for BadUSB Attacks](https://github.com/daniel-sec/autopsy-badusb-plugin)
 - [Phishing Attack Simulation](https://github.com/daniel-sec/PhishingAttackSimulation)
 
